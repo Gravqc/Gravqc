@@ -1,16 +1,18 @@
 ### Hi there 👋
+My name is Gaurav and I'm a computer science student from India. Here's some info about me!
 
-<!--
-**Gravqc/Gravqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Work experience:
 
-Here are some ideas to get you started:
+- **Software Engineer intern at Milestone** - Full-stack development on the IDA team. [Bangalore,summer 2024]
+- **Research Assistant at MIT Manipal** - ML Engineer on efficient resource utilization during pandemic. [Manipal, summer 2023]
+- **Project Trainee at Bosch Global Software Technologies** - Data analyst on PO Utilization Dashboard. [Bangalore, Winter 2022] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interests:
+
+- Web development.
+- Machine Learning.
+- Poetry.
+  
+💬 Reach me by email or LinkedIn! [gauravgowda452@gmail.com](gauravgowda452@gmail.com) | [www.linkedin.com/in/Gaurav](https://www.linkedin.com/in/gaurav-m-gowda-0a94a2211/)
+
+📫 Visit my website: Coming soon.....
