@@ -11,7 +11,7 @@ My name is Gaurav and I'm a computer science student from India. Here's some inf
 
 - Web development.
 - Machine Learning.
-- Write poems sometime :)
+- Poetry.
   
 💬 Reach me by email or LinkedIn! [gauravgowda452@gmail.com](gauravgowda452@gmail.com) | [www.linkedin.com/in/Gaurav](https://www.linkedin.com/in/gaurav-m-gowda-0a94a2211/)
 
