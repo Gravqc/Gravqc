@@ -3,7 +3,7 @@ My name is Gaurav and I'm a computer science student from India. Here's some inf
 
 ⚡ Work experience:
 
-- **Software Engineer intern at Milestone** - Full-stack development on the IDA team. [Bangalore,summer 2024]
+- **Software Engineer at Milestone** - Full-stack development on the IDA team. [Bangalore,summer 2024]
 - **Research Assistant at MIT Manipal** - ML Engineer on efficient resource utilization during pandemic. [Manipal, summer 2023]
 - **Project Trainee at Bosch Global Software Technologies** - Data analyst on PO Utilization. [Bangalore, Winter 2022] 
 
