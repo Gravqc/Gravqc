@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Gaurav and I'm a computer science student from India. Here's some info about me!
+My name is Gaurav and I'm an Engineer from India. Here's some info about me!
 
 ⚡ Work experience:
 
