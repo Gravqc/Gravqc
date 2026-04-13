@@ -15,4 +15,4 @@ PostgreSQL, MongoDB, Redis, Spark
 ### 📫 Connect
 Email: gauravgowda452@gmail.com  
 LinkedIn: https://linkedin.com/in/gauravgowda  
-Portfolio: https://main--gaurav-website.netlify.app/
+Portfolio: https://gravqc.github.io/Portfolio-Website/
