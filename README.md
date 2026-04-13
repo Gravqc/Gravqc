@@ -1,19 +1,18 @@
-### Hi there 👋
-My name is Gaurav and I'm an Engineer from India. Here's some info about me!
+## Hi, I'm Gaurav 👋
+Software Engineer @ Milestone | Backend & GenAI
 
-⚡ Work experience:
+I build backend systems and AI-powered applications using LLMs, RAG, and distributed workflows.
 
-- **Full-Time SWE at Milestone Inc** IDA team. [Bangalore, Spring 2024]
-- **Software Engineer Intern at Milestone Inc** - Full-stack development on the IDA team. [Bangalore, Summer 2024]
-- **Undergraduate Researcher at MIT Manipal** - ML Engineer on efficient resource utilization during a pandemic. [Manipal, Summer 2023]
-- **Software Engineer Intern at Bosch Global Software Technologies** - Data analyst in the SCM team. [Bangalore, Winter 2022] 
+- Building AI agents using RAG and LangGraph
+- Working on backend systems and data pipelines
+- Interested in scalable systems and applied AI
 
-🌱 Interests:
+### 🛠 Tech
+Python, C#, FastAPI, .NET, Kubernetes, Docker  
+RAG, LangGraph, LangChain  
+PostgreSQL, MongoDB, Redis, Spark
 
-- Web development.
-- Machine Learning.
-- Poetry.
-  
-💬 Reach me by email or LinkedIn! [gauravgowda452@gmail.com](gauravgowda452@gmail.com) | [www.linkedin.com/in/Gaurav](https://www.linkedin.com/in/gaurav-m-gowda-0a94a2211/)
-
-📫 Visit my website: https://main--gaurav-website.netlify.app/
+### 📫 Connect
+Email: gauravgowda452@gmail.com  
+LinkedIn: https://linkedin.com/in/gauravgowda  
+Portfolio: https://main--gaurav-website.netlify.app/
